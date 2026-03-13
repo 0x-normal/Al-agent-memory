@@ -35,7 +35,7 @@ Each memory is stored at:
 ### 2. Get Testnet Tokens
 
 - **APT (gas):** [Aptos Testnet Faucet](https://aptos.dev/network/faucet)
-- **ShelbyUSD (storage):** Join [Shelby Discord](https://discord.gg/shelbyprotocol) and request testnet tokens
+- **ShelbyUSD (storage):** Join [Shelby Discord](discord.gg/shelbyserves) and request testnet tokens
 
 ### 3. Install Dependencies
 
@@ -92,4 +92,4 @@ npm run cli -- share agent-alpha agent-beta <memoryId>
 
 - [Shelby Protocol Docs](https://docs.staging.shelby.xyz/protocol)
 - [Aptos Testnet Faucet](https://aptos.dev/network/faucet)
-- [Shelby Discord](https://discord.gg/shelbyprotocol)
+- [Shelby Discord](discord.gg/shelbyserves)
